@@ -1,3 +1,3 @@
 # project1
 This is my first repository
-Author - Premasri Kavuru
+Author - Premasri
